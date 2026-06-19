@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Backend Developer",
+    "thresholds": {
+      "Python": 70,
+      "Java": 60,
+      "SQL": 50
+    }
+  }
+]
